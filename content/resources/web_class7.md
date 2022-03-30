@@ -3,6 +3,7 @@ content_type: resource
 description: Budgets and Budgeting
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-521-management-accounting-and-control-spring-2003/683436a742fd4533d218ecb3a844e82f_web_class7.pdf
 file_type: application/pdf
+parent_uid: 7be6ff3d-98b5-65fb-dd4d-2ddd97ee5580
 resourcetype: Document
 title: web_class7.pdf
 uid: 683436a7-42fd-4533-d218-ecb3a844e82f
